@@ -1109,10 +1109,7 @@ def hundreds(x):
 
 def thousand(x):
     if x==1000: print("One Thousand")
-
-
 num = int(input("Enter a number: "))
-
 if num < 10:
     ones(num)
 elif num < 100:
