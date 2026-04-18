@@ -9,6 +9,7 @@ def ones(x):
     elif x==7: print("Seven")
     elif x==8: print("Eight")
     elif x==9: print("Nine")
+    return x
 
 
 def tens(x):
@@ -23,6 +24,7 @@ def tens(x):
     elif x==18: print("Eighteen")
     elif x==19: print("Nineteen")
     elif x==20: print("Twenty")
+    
     elif x==21: print("Twenty One")
     elif x==22: print("Twenty Two")
     elif x==23: print("Twenty Three")
@@ -33,6 +35,7 @@ def tens(x):
     elif x==28: print("Twenty Eight")
     elif x==29: print("Twenty Nine")
     elif x==30: print("Thirty")
+    
     elif x==31: print("Thirty One")
     elif x==32: print("Thirty Two")
     elif x==33: print("Thirty Three")
@@ -43,6 +46,7 @@ def tens(x):
     elif x==38: print("Thirty Eight")
     elif x==39: print("Thirty Nine")
     elif x==40: print("Forty")
+    
     elif x==41: print("Forty One")
     elif x==42: print("Forty Two")
     elif x==43: print("Forty Three")
@@ -53,6 +57,7 @@ def tens(x):
     elif x==48: print("Forty Eight")
     elif x==49: print("Forty Nine")
     elif x==50: print("Fifty")
+    
     elif x==51: print("Fifty One")
     elif x==52: print("Fifty Two")
     elif x==53: print("Fifty Three")
@@ -63,6 +68,7 @@ def tens(x):
     elif x==58: print("Fifty Eight")
     elif x==59: print("Fifty Nine")
     elif x==60: print("Sixty")
+    
     elif x==61: print("Sixty One")
     elif x==62: print("Sixty Two")
     elif x==63: print("Sixty Three")
@@ -73,6 +79,7 @@ def tens(x):
     elif x==68: print("Sixty Eight")
     elif x==69: print("Sixty Nine")
     elif x==70: print("Seventy")
+    
     elif x==71: print("Seventy One")
     elif x==72: print("Seventy Two")
     elif x==73: print("Seventy Three")
@@ -83,6 +90,7 @@ def tens(x):
     elif x==78: print("Seventy Eight")
     elif x==79: print("Seventy Nine")
     elif x==80: print("Eighty")
+    
     elif x==81: print("Eighty One")
     elif x==82: print("Eighty Two")
     elif x==83: print("Eighty Three")
@@ -93,6 +101,7 @@ def tens(x):
     elif x==88: print("Eighty Eight")
     elif x==89: print("Eighty Nine")
     elif x==90: print("Ninety")
+    
     elif x==91: print("Ninety One")
     elif x==92: print("Ninety Two")
     elif x==93: print("Ninety Three")
@@ -102,6 +111,7 @@ def tens(x):
     elif x==97: print("Ninety Seven")
     elif x==98: print("Ninety Eight")
     elif x==99: print("Ninety Nine")
+    return x
 
 
 def hundreds(x):
@@ -116,6 +126,7 @@ def hundreds(x):
     elif x==108: print("One Hundred Eight")
     elif x==109: print("One Hundred Nine")
     elif x==110: print("One Hundred Ten")
+    
     elif x==111: print("One Hundred Eleven")
     elif x==112: print("One Hundred Twelve")
     elif x==113: print("One Hundred Thirteen")
@@ -126,6 +137,7 @@ def hundreds(x):
     elif x==118: print("One Hundred Eighteen")
     elif x==119: print("One Hundred Nineteen")
     elif x==120: print("One Hundred Twenty")
+    
     elif x==121: print("One Hundred Twenty One")
     elif x==122: print("One Hundred Twenty Two")
     elif x==123: print("One Hundred Twenty Three")
@@ -136,6 +148,7 @@ def hundreds(x):
     elif x==128: print("One Hundred Twenty Eight")
     elif x==129: print("One Hundred Twenty Nine")
     elif x==130: print("One Hundred Thirty")
+    
     elif x==131: print("One Hundred Thirty One")
     elif x==132: print("One Hundred Thirty Two")
     elif x==133: print("One Hundred Thirty Three")
@@ -146,6 +159,7 @@ def hundreds(x):
     elif x==138: print("One Hundred Thirty Eight")
     elif x==139: print("One Hundred Thirty Nine")
     elif x==140: print("One Hundred Forty")
+    
     elif x==141: print("One Hundred Forty One")
     elif x==142: print("One Hundred Forty Two")
     elif x==143: print("One Hundred Forty Three")
@@ -156,6 +170,7 @@ def hundreds(x):
     elif x==148: print("One Hundred Forty Eight")
     elif x==149: print("One Hundred Forty Nine")
     elif x==150: print("One Hundred Fifty")
+    
     elif x==151: print("One Hundred Fifty One")
     elif x==152: print("One Hundred Fifty Two")
     elif x==153: print("One Hundred Fifty Three")
@@ -166,6 +181,7 @@ def hundreds(x):
     elif x==158: print("One Hundred Fifty Eight")
     elif x==159: print("One Hundred Fifty Nine")
     elif x==160: print("One Hundred Sixty")
+    
     elif x==161: print("One Hundred Sixty One")
     elif x==162: print("One Hundred Sixty Two")
     elif x==163: print("One Hundred Sixty Three")
@@ -176,6 +192,7 @@ def hundreds(x):
     elif x==168: print("One Hundred Sixty Eight")
     elif x==169: print("One Hundred Sixty Nine")
     elif x==170: print("One Hundred Seventy")
+    
     elif x==171: print("One Hundred Seventy One")
     elif x==172: print("One Hundred Seventy Two")
     elif x==173: print("One Hundred Seventy Three")
@@ -186,6 +203,7 @@ def hundreds(x):
     elif x==178: print("One Hundred Seventy Eight")
     elif x==179: print("One Hundred Seventy Nine")
     elif x==180: print("One Hundred Eighty")
+    
     elif x==181: print("One Hundred Eighty One")
     elif x==182: print("One Hundred Eighty Two")
     elif x==183: print("One Hundred Eighty Three")
@@ -196,6 +214,7 @@ def hundreds(x):
     elif x==188: print("One Hundred Eighty Eight")
     elif x==189: print("One Hundred Eighty Nine")
     elif x==190: print("One Hundred Ninety")
+    
     elif x==191: print("One Hundred Ninety One")
     elif x==192: print("One Hundred Ninety Two")
     elif x==193: print("One Hundred Ninety Three")
@@ -205,7 +224,7 @@ def hundreds(x):
     elif x==197: print("One Hundred Ninety Seven")
     elif x==198: print("One Hundred Ninety Eight")
     elif x==199: print("One Hundred Ninety Nine")
-    elif x==200: print("Two Hundred")
+    
     elif x==200: print("Two Hundred")
     elif x==201: print("Two Hundred One")
     elif x==202: print("Two Hundred Two")
@@ -217,6 +236,7 @@ def hundreds(x):
     elif x==208: print("Two Hundred Eight")
     elif x==209: print("Two Hundred Nine")
     elif x==210: print("Two Hundred Ten")
+    
     elif x==211: print("Two Hundred Eleven")
     elif x==212: print("Two Hundred Twelve")
     elif x==213: print("Two Hundred Thirteen")
@@ -227,6 +247,7 @@ def hundreds(x):
     elif x==218: print("Two Hundred Eighteen")
     elif x==219: print("Two Hundred Nineteen")
     elif x==220: print("Two Hundred Twenty")
+    
     elif x==221: print("Two Hundred Twenty One")
     elif x==222: print("Two Hundred Twenty Two")
     elif x==223: print("Two Hundred Twenty Three")
@@ -237,6 +258,7 @@ def hundreds(x):
     elif x==228: print("Two Hundred Twenty Eight")
     elif x==229: print("Two Hundred Twenty Nine")
     elif x==230: print("Two Hundred Thirty")
+    
     elif x==231: print("Two Hundred Thirty One")
     elif x==232: print("Two Hundred Thirty Two")
     elif x==233: print("Two Hundred Thirty Three")
@@ -247,6 +269,7 @@ def hundreds(x):
     elif x==238: print("Two Hundred Thirty Eight")
     elif x==239: print("Two Hundred Thirty Nine")
     elif x==240: print("Two Hundred Forty")
+    
     elif x==241: print("Two Hundred Forty One")
     elif x==242: print("Two Hundred Forty Two")
     elif x==243: print("Two Hundred Forty Three")
@@ -257,6 +280,7 @@ def hundreds(x):
     elif x==248: print("Two Hundred Forty Eight")
     elif x==249: print("Two Hundred Forty Nine")
     elif x==250: print("Two Hundred Fifty")
+    
     elif x==251: print("Two Hundred Fifty One")
     elif x==252: print("Two Hundred Fifty Two")
     elif x==253: print("Two Hundred Fifty Three")
@@ -267,6 +291,7 @@ def hundreds(x):
     elif x==258: print("Two Hundred Fifty Eight")
     elif x==259: print("Two Hundred Fifty Nine")
     elif x==260: print("Two Hundred Sixty")
+    
     elif x==261: print("Two Hundred Sixty One")
     elif x==262: print("Two Hundred Sixty Two")
     elif x==263: print("Two Hundred Sixty Three")
@@ -277,6 +302,7 @@ def hundreds(x):
     elif x==268: print("Two Hundred Sixty Eight")
     elif x==269: print("Two Hundred Sixty Nine")
     elif x==270: print("Two Hundred Seventy")
+    
     elif x==271: print("Two Hundred Seventy One")
     elif x==272: print("Two Hundred Seventy Two")
     elif x==273: print("Two Hundred Seventy Three")
@@ -287,6 +313,7 @@ def hundreds(x):
     elif x==278: print("Two Hundred Seventy Eight")
     elif x==279: print("Two Hundred Seventy Nine")
     elif x==280: print("Two Hundred Eighty")
+    
     elif x==281: print("Two Hundred Eighty One")
     elif x==282: print("Two Hundred Eighty Two")
     elif x==283: print("Two Hundred Eighty Three")
@@ -297,6 +324,7 @@ def hundreds(x):
     elif x==288: print("Two Hundred Eighty Eight")
     elif x==289: print("Two Hundred Eighty Nine")
     elif x==290: print("Two Hundred Ninety")
+    
     elif x==291: print("Two Hundred Ninety One")
     elif x==292: print("Two Hundred Ninety Two")
     elif x==293: print("Two Hundred Ninety Three")
@@ -307,6 +335,7 @@ def hundreds(x):
     elif x==298: print("Two Hundred Ninety Eight")
     elif x==299: print("Two Hundred Ninety Nine")
     elif x==300: print("Three Hundred")
+    
     elif x==301: print("Three Hundred One")
     elif x==302: print("Three Hundred Two")
     elif x==303: print("Three Hundred Three")
@@ -317,6 +346,7 @@ def hundreds(x):
     elif x==308: print("Three Hundred Eight")
     elif x==309: print("Three Hundred Nine")
     elif x==310: print("Three Hundred Ten")
+    
     elif x==311: print("Three Hundred Eleven")
     elif x==312: print("Three Hundred Twelve")
     elif x==313: print("Three Hundred Thirteen")
@@ -327,6 +357,7 @@ def hundreds(x):
     elif x==318: print("Three Hundred Eighteen")
     elif x==319: print("Three Hundred Nineteen")
     elif x==320: print("Three Hundred Twenty")
+    
     elif x==321: print("Three Hundred Twenty One")
     elif x==322: print("Three Hundred Twenty Two")
     elif x==323: print("Three Hundred Twenty Three")
@@ -337,6 +368,7 @@ def hundreds(x):
     elif x==328: print("Three Hundred Twenty Eight")
     elif x==329: print("Three Hundred Twenty Nine")
     elif x==330: print("Three Hundred Thirty")
+    
     elif x==331: print("Three Hundred Thirty One")
     elif x==332: print("Three Hundred Thirty Two")
     elif x==333: print("Three Hundred Thirty Three")
@@ -347,6 +379,7 @@ def hundreds(x):
     elif x==338: print("Three Hundred Thirty Eight")
     elif x==339: print("Three Hundred Thirty Nine")
     elif x==340: print("Three Hundred Forty")
+    
     elif x==341: print("Three Hundred Forty One")
     elif x==342: print("Three Hundred Forty Two")
     elif x==343: print("Three Hundred Forty Three")
@@ -357,6 +390,7 @@ def hundreds(x):
     elif x==348: print("Three Hundred Forty Eight")
     elif x==349: print("Three Hundred Forty Nine")
     elif x==350: print("Three Hundred Fifty")
+    
     elif x==351: print("Three Hundred Fifty One")
     elif x==352: print("Three Hundred Fifty Two")
     elif x==353: print("Three Hundred Fifty Three")
@@ -367,6 +401,7 @@ def hundreds(x):
     elif x==358: print("Three Hundred Fifty Eight")
     elif x==359: print("Three Hundred Fifty Nine")
     elif x==360: print("Three Hundred Sixty")
+    
     elif x==361: print("Three Hundred Sixty One")
     elif x==362: print("Three Hundred Sixty Two")
     elif x==363: print("Three Hundred Sixty Three")
@@ -377,6 +412,7 @@ def hundreds(x):
     elif x==368: print("Three Hundred Sixty Eight")
     elif x==369: print("Three Hundred Sixty Nine")
     elif x==370: print("Three Hundred Seventy")
+    
     elif x==371: print("Three Hundred Seventy One")
     elif x==372: print("Three Hundred Seventy Two")
     elif x==373: print("Three Hundred Seventy Three")
@@ -387,6 +423,7 @@ def hundreds(x):
     elif x==378: print("Three Hundred Seventy Eight")
     elif x==379: print("Three Hundred Seventy Nine")
     elif x==380: print("Three Hundred Eighty")
+    
     elif x==381: print("Three Hundred Eighty One")
     elif x==382: print("Three Hundred Eighty Two")
     elif x==383: print("Three Hundred Eighty Three")
@@ -397,6 +434,7 @@ def hundreds(x):
     elif x==388: print("Three Hundred Eighty Eight")
     elif x==389: print("Three Hundred Eighty Nine")
     elif x==390: print("Three Hundred Ninety")
+    
     elif x==391: print("Three Hundred Ninety One")
     elif x==392: print("Three Hundred Ninety Two")
     elif x==393: print("Three Hundred Ninety Three")
@@ -407,6 +445,7 @@ def hundreds(x):
     elif x==398: print("Three Hundred Ninety Eight")
     elif x==399: print("Three Hundred Ninety Nine")
     elif x==400: print("Four Hundred")
+    
     elif x==401: print("Four Hundred One")
     elif x==402: print("Four Hundred Two")
     elif x==403: print("Four Hundred Three")
@@ -1065,6 +1104,7 @@ def hundreds(x):
     elif x==997: print("Nine Hundred Ninety Seven")
     elif x==998: print("Nine Hundred Ninety Eight")
     elif x==999: print("Nine Hundred Ninety Nine")
+    return x
 
 
 def thousand(x):
